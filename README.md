@@ -2,7 +2,7 @@
 - 📫 How to reach me ...Khusbuphulara03@gmail.com
 
 - <html>
-  <style>
+<!--   <style>
 
   .grid{
   display:flex;
@@ -15,7 +15,7 @@
   
 }
     
-  </style>
+  </style> -->
   <body>
     <h1>Hello evryone! II'm Khusbu Phulara.</h1>
     <h3>Currently learning Full stack Development.</h3>
